@@ -39,7 +39,7 @@ body {
 
 .card .header {
     width: 50%;
-    height: 150px;
+    height: 40%;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
@@ -47,8 +47,8 @@ body {
 
 .card .header img {
     width: 100%;
-    height: 150px;
-    border-radius: 75%;
+    height: 95%;
+    border-radius: 100%;
 }
 
 .card .header .progate-img {
